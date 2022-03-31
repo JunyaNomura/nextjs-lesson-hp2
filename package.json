@@ -1,0 +1,23 @@
+{
+  "name": "nextjs_hp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-brands-svg-icons": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "autoprefixer": "^10.1.0",
+    "next": "10.0.4",
+    "node-fetch": "^2.6.1",
+    "postcss": "^8.2.1",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "tailwindcss": "^2.0.2"
+  }
+}
